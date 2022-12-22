@@ -1,0 +1,3 @@
+{
+  "extends": "@dustfoundation/nyc-config"
+}
